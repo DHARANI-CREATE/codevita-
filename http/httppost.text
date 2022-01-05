@@ -1,0 +1,2 @@
+HTTP POST http://www.appdomain.com/users
+HTTP POST http://www.appdomain.com/users/123/accounts
